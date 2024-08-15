@@ -1,13 +1,13 @@
-# What application is about
+# Sample CMS
 
-# In this project code is about a simple module of CMS system
+What is it?
 
-# Assuming system is about managing posts on blog site
+In this project code is about a simple module of CMS system
 
-# Here using CMS user is able to manage posts which are displayed on his site
+Assuming system is about managing posts on blog site
 
-# We have different categories ex. Technology, Health & Wellness, Travel, Food & Receipes, Lifestyle, etc
+Here using CMS user is able to manage posts which are displayed on his site
 
-# We have different post from different categories mentioned above. Post have fields like - title, content, created_at, updated_at, category_id
+We have different categories ex. Technology, Health & Wellness, Travel, Food & Receipes, Lifestyle, etc
 
-# command to run mongoDB locally -> sudo mongod --dbpath=/Users/user_name/data/db
+We have different post from different categories mentioned above. Post have fields like - title, content, created_at, updated_at, category_id
